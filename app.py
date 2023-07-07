@@ -6,7 +6,8 @@ import pandas as pd
 
 app = Flask(__name__,template_folder='templates',static_folder='static')
 
-model = pickle.load(open("flight_rf.pkl", "rb"))
+model = pickle.load(open("/home/flight_rf.pkl", "rb"))
+# model = pickle.load(open("flight_rf.pkl", "rb"))
 
 
 
