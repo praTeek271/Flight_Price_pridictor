@@ -19,4 +19,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses selenium
+- this is a test repo
