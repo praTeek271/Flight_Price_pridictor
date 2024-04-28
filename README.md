@@ -1,4 +1,4 @@
-# Flight_Price_pridictor
+# flight_price_pridictor
 This Repo consists of the following files :
 - .git
 - app.py
@@ -21,4 +21,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses threading module
+- this is a test repo
